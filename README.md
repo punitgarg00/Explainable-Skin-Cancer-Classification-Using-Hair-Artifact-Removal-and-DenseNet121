@@ -35,7 +35,7 @@ The system architecture consists of three main components:
    Raw Image → Hair Removal (DullRazor) → CLAHE Enhancement → Normalization → Resized (224×224)
    ```
 
-   ![Hair Removal + CLAHE Enhancement](images\HairRemoval+Contrast.png)
+   ![Hair Removal + CLAHE Enhancement](images/HairRemoval+Contrast.png)
 
 
 2. **DenseNet121 Model**
@@ -48,7 +48,7 @@ The system architecture consists of three main components:
    - Heatmap overlay on original images
    - Clinical interpretability support
 
-       ![Grad-CAM Heatmap](images\XAI.png)            
+       ![Grad-CAM Heatmap](images/XAI.png)            
 
 ## 📊 Dataset
 
