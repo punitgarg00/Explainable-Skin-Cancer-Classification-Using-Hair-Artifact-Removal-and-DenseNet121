@@ -1,4 +1,4 @@
-# Explainable Skin Cancer Detection Using Hair Artifact Removal and DenseNet-Based Deep Learning
+# Explainable Skin Cancer Classification Using Hair Artifact Removal and DenseNet-Based Deep Learning
 
 ## 🔍 Overview
 
