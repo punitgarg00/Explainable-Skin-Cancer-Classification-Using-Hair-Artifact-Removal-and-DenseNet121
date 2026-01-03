@@ -1,4 +1,4 @@
-# Explainable Skin Cancer Detection Using Hair Artifact Removal and DenseNet-Based Deep Learning
+# Explainable Skin Cancer Classification Using Hair Artifact Removal and DenseNet-Based Deep Learning
 
 ## 🔍 Overview
 
@@ -116,7 +116,8 @@ The system architecture consists of three main components:
 
 - **Punit** - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/punit-garg-08b133308/)
 - **Sawan Kumar Yadav** 
-- **Nikhil Jain** 
+- **Nikhil Jain** – [LinkedIn Profile](https://www.linkedin.com/in/nikhil-jain-133b25279/)
+
 
 
 ## 📄 License
