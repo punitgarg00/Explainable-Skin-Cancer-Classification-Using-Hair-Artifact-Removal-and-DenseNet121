@@ -114,9 +114,9 @@ The system architecture consists of three main components:
 ## 👥 Contributors
 
 
-- **Punit** - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/punit-garg-08b133308/)
+- **Punit**
 - **Sawan Kumar Yadav** 
-- **Nikhil Jain** – [LinkedIn Profile](https://www.linkedin.com/in/nikhil-jain-133b25279/)
+- **Nikhil Jain**
 
 
 
